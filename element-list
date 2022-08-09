@@ -1,0 +1,8 @@
+com.atgenomix.seqslab.piper.plugin.api
+com.atgenomix.seqslab.piper.plugin.api.collector
+com.atgenomix.seqslab.piper.plugin.api.executor
+com.atgenomix.seqslab.piper.plugin.api.formatter
+com.atgenomix.seqslab.piper.plugin.api.loader
+com.atgenomix.seqslab.piper.plugin.api.partitioner
+com.atgenomix.seqslab.piper.plugin.api.storage
+com.atgenomix.seqslab.piper.plugin.api.writer
